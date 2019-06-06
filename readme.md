@@ -1,6 +1,6 @@
 # Design Pattern
 
-## Quick start
+#### Quick start
 
 ### 1. Creational Pattern
 
