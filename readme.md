@@ -13,7 +13,7 @@
 ### 2. Structual Pattern
 
    - [Adapter](https://github.com/zhaotianxiang/design-pattern/tree/master/src/005.Adapter)
-   - Bridge
+   - [Bridge] (https://github.com/zhaotianxiang/design-pattern/tree/master/src/006.Bridge)
    - Composite
    - Decorator
    - Facade
