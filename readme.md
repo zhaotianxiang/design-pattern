@@ -4,7 +4,7 @@
 
 ### 1. Creational Pattern
 
-   - (Factory Methord)[https://github.com/zhaotianxiang/design-pattern/edit/master/readme.md]
+   - [Factory Methord](https://github.com/zhaotianxiang/design-pattern/edit/master/readme.md)
    - Abstract Factory
    - Prototype
    - Singleton
