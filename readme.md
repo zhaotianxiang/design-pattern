@@ -1,15 +1,15 @@
 # Design Pattern
 
-## Overview
+## Quick start
 
-#### 1. Creational Pattern
+### 1. Creational Pattern
 
-   - Factory Methord
+   - (Factory Methord)[https://github.com/zhaotianxiang/design-pattern/edit/master/readme.md]
    - Abstract Factory
    - Prototype
    - Singleton
 
-#### 2. Structual Pattern
+### 2. Structual Pattern
 
    - Adapter
    - Bridge
@@ -19,7 +19,7 @@
    - Flyweight
    - Proxy
 
-#### 3. Behavioral Pattern
+### 3. Behavioral Pattern
 
    - Interpreter
    - Template Method
