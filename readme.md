@@ -1,6 +1,10 @@
 # Design Pattern
 
-### Quick start
+Design patterns are the best formalized practices a programmer can use to solve common problems when designing an application or system.
+
+Design patterns can speed up the development process by providing tested, proven development paradigms.
+
+# Getting started
 
 ### 1. Creational Pattern
 
