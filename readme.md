@@ -34,12 +34,12 @@
    - Strategy
    - Vistor
 
-#### 4. 设计模式六大原则
+### 4. Six principles for design pattern
    
-   - [开闭原则]()
-   - [单一职责]()
-   - [里氏替换]()
-   - [接口隔离]()
-   - [依赖倒置]()
-   - [迪米特法则]()
+   - [Open Close](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/open_close)
+   - [Single Responsibility](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/single-responsibility)
+   - [Liskov Replace](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/liskov)
+   - [Interface Segregation](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/dependency-inversion)
+   - [Dependency Inversion](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/interface-segregation)
+   - [Least Knowledge](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/least-knowledge)
 
