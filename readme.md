@@ -36,10 +36,10 @@
 
 ### 4. Six principles for design pattern
    
-   - [Open Close](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/open_close)
-   - [Single Responsibility](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/single-responsibility)
-   - [Liskov Replace](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/liskov)
-   - [Interface Segregation](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/dependency-inversion)
-   - [Dependency Inversion](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/interface-segregation)
-   - [Least Knowledge](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/least-knowledge)
+   1. [Open Close](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/open_close)
+   2. [Single Responsibility](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/single-responsibility)
+   3. [Liskov Replace](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/liskov)
+   4. [Interface Segregation](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/dependency-inversion)
+   5. [Dependency Inversion](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/interface-segregation)
+   6. [Least Knowledge](https://github.com/zhaotianxiang/design-pattern/tree/master/principles/least-knowledge)
 
