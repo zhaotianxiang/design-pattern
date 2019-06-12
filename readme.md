@@ -14,7 +14,7 @@
 
    - [Adapter](https://github.com/zhaotianxiang/design-pattern/tree/master/src/005.Adapter)
    - [Bridge](https://github.com/zhaotianxiang/design-pattern/tree/master/src/006.Bridge)
-   - Composite
+   - [Composite](https://github.com/zhaotianxiang/design-pattern/tree/master/src/007.Composite)
    - Decorator
    - Facade
    - Flyweight
